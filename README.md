@@ -1,5 +1,3 @@
-# Paul Bădărău
-
 **Product engineer. Founder. Open-source developer.**
 
 I build software from the ground up, modernise existing systems, and keep products running long after launch.
